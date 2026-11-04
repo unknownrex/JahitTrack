@@ -22,5 +22,11 @@ yarn-error.log
 /.vscode
 /.zed
 
-# Dokumen perencanaan pribadi - tidak ikut di-commit
-PRD.md
+# Dokumen perencanaan/agent - disimpan di luar repo (../PRD-JahitTrack.md, ../JahitTrack-docs/)
+*.md.bak
+AGENTS.md
+CLAUDE.md
+.opencode/
+.cursor/
+.aider*
+plan*.md
